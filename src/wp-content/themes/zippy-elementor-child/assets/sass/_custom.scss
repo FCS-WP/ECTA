@@ -1,0 +1,11 @@
+.overflow-hidden {
+	overflow: hidden !important;
+}
+.custom-footer-menu .elementor-nav-menu--main .elementor-nav-menu ul li {
+	width: 250px !important;
+}
+@media (max-width: 768px) {
+	.custom-footer-menu .elementor-nav-menu--main .elementor-nav-menu ul li {
+	width: auto !important;
+}
+}
