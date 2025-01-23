@@ -9,3 +9,27 @@
 	width: auto !important;
 }
 }
+.hidden-select {
+	display: none !important;
+}
+
+.variations {
+	.attr-name {
+		font-weight: 700;
+	}
+	.attr-options {
+		.option-label {
+			padding: 12px;
+		}
+	}
+	.show-price {
+		margin-top: 10px;
+	}
+}
+.woocommerce-variation-price {
+	display: none;
+}
+.view-cart {
+	padding: 1rem;
+	border: 1px solid #dadada;
+}
